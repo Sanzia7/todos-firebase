@@ -99,3 +99,25 @@ export const App = () => {
 		</div>
 	)
 }
+
+
+//Hosting on the firebase:
+// 1. npm run build
+
+// The build folder is ready to be deployed.
+// You may serve it with a static server:
+//
+//   npm install -g serve
+//   serve -s build
+//
+// Find out more about deployment here:
+//
+//   https://cra.link/deployment
+
+// 2. firebase login
+// 3. firebase init
+// 4. hosting * enter
+//  todos
+// build
+// N, N, N
+//  firebase deploy
